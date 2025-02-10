@@ -26,6 +26,13 @@ I thrive in dynamic environments, constantly learning and expanding my skills to
   </a>
 </div>
 
+
+---
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=edeoliv&theme=xcode&hide_border=true" alt="Activity graph">
+</a>
+
 ---
 
 ## 🌟 Focused Tech Stack (2025 - 2035)
