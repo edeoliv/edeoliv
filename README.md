@@ -8,13 +8,7 @@ I thrive in dynamic environments, constantly learning and expanding my skills to
 ---
 
 ### 📫 Connect with me  
-<div align="left">
-  <a href="https://www.linkedin.com/in/de-oliveira-elias/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/elias_olivtradet/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" />
-  </a>
+<div align="left">  
   <a href="https://x.com/EOlivtradet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X (Twitter)" />
   </a>
