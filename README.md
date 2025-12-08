@@ -1,6 +1,6 @@
 ## Hi 👋! I'm Elias Olivtradet  
 
-### 🚀 Software Engineer | Web & Blockchain Developer  
+### 🚀 Software Engineer | Web3 & Blockchain Developer  
 
 Passionate about crafting **efficient and innovative** software solutions, I specialize in **modern web technologies** and **blockchain development**.  
 I thrive in dynamic environments, constantly learning and expanding my skills to create high-performance applications.
