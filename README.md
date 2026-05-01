@@ -35,10 +35,10 @@ Passionate about crafting **efficient and innovative** software solutions, speci
 ## 💻 Tech Stack (2025 Focus)
 
 ### **Backend & Full-Stack**
-![Laravel](https://img.shields.io/badge/Laravel_12-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![FilamentPHP](https://img.shields.io/badge/Filament_v4-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8.4-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire_3-%234E56A6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel_13-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/Filament_v5-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.5-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire_4-%234E56A6.svg?style=for-the-badge&logo=livewire&logoColor=white)
 
 ### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
